@@ -1,0 +1,3 @@
+package com.financetrack.controller;
+import com.financetrack.repository.CategoryRepository;import org.springframework.web.bind.annotation.*;import java.util.*;
+@RestController @RequestMapping("/api/categories") public class CategoryController {private final CategoryRepository repo;public CategoryController(CategoryRepository r){repo=r;}@GetMapping public List<Map<String,Object>> list(@RequestParam(defaultValue="EXPENSE")String kind){if(!Set.of("INCOME","EXPENSE").contains(kind.toUpperCase()))throw new IllegalArgumentException("kind debe ser INCOME o EXPENSE");return repo.findByKindOrderByName(kind.toUpperCase()).stream().map(c->Map.<String,Object>of("id",c.getId(),"name",c.getName(),"kind",c.getKind())).toList();}}

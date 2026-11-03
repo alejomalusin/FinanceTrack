@@ -1,0 +1,3 @@
+package com.financetrack.controller;
+import com.financetrack.dto.AuthDtos.*; import com.financetrack.serviceImpl.AuthService; import jakarta.validation.Valid; import org.springframework.web.bind.annotation.*; import java.util.Map;
+@RestController @RequestMapping("/api/auth") public class AuthController {private final AuthService auth;public AuthController(AuthService a){auth=a;}@PostMapping("/register")public AuthResponse register(@Valid @RequestBody Register r){return auth.register(r);}@PostMapping("/login")public AuthResponse login(@Valid @RequestBody Login r){return auth.login(r);}@PostMapping("/logout")public Map<String,String> logout(){return Map.of("message","Sesión cerrada; elimina el access token en el cliente");}}

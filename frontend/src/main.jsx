@@ -1,0 +1,3 @@
+import React from 'react';import{createRoot}from'react-dom/client';import{BrowserRouter}from'react-router-dom';import{CssBaseline,ThemeProvider,createTheme}from'@mui/material';import App from'./App';import{AuthProvider}from'./context/AuthContext';import'./styles.css';
+const theme=createTheme({palette:{primary:{main:'#3157d5'},background:{default:'#f6f8fc',paper:'#fff'},text:{primary:'#17233c',secondary:'#718096'}},shape:{borderRadius:14},typography:{fontFamily:'Inter, system-ui, sans-serif',h4:{fontWeight:750,letterSpacing:'-.04em'},h6:{fontWeight:700}}});
+createRoot(document.getElementById('root')).render(<React.StrictMode><ThemeProvider theme={theme}><CssBaseline/><BrowserRouter><AuthProvider><App/></AuthProvider></BrowserRouter></ThemeProvider></React.StrictMode>);

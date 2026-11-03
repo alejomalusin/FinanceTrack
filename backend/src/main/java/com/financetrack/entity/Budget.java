@@ -1,0 +1,5 @@
+package com.financetrack.entity;
+import jakarta.persistence.*;import java.math.BigDecimal;
+@Entity @Table(name="budgets",uniqueConstraints=@UniqueConstraint(name="UQ_budgets_period",columnNames={"user_id","category_id","year","month"})) public class Budget {
+ @Id @GeneratedValue(strategy=GenerationType.IDENTITY)private Long id;@ManyToOne(fetch=FetchType.LAZY,optional=false)@JoinColumn(name="user_id")private User user;@ManyToOne(fetch=FetchType.LAZY,optional=false)@JoinColumn(name="category_id")private Category category;@Column(nullable=false)private short year;@Column(nullable=false)private short month;@Column(nullable=false,precision=19,scale=4)private BigDecimal amount;protected Budget(){}public Budget(User u,Category c,int y,int m,BigDecimal a){user=u;category=c;year=(short)y;month=(short)m;amount=a;}public Long getId(){return id;}public Category getCategory(){return category;}public int getYear(){return year;}public int getMonth(){return month;}public BigDecimal getAmount(){return amount;}public void setAmount(BigDecimal a){amount=a;}
+}
