@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="14.4.0">
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\config\SecurityConfig.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\config\SecurityConfig.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="52" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="2" column="96" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -107,7 +107,7 @@
 <error line="7" column="491" severity="warning" message="&apos;}&apos; en la columna 491 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="7" column="491" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\AuthController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\AuthController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="37" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - com.financetrack.dto.AuthDtos.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="41" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -177,7 +177,7 @@
 <error line="3" column="501" severity="warning" message="&apos;}&apos; en la columna 501 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="501" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\BudgetController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\BudgetController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="31" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - com.financetrack.entity.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="33" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
@@ -411,7 +411,7 @@
 <error line="8" column="612" severity="warning" message="&apos;}&apos; en la columna 612 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="8" column="612" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\CategoryController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\CategoryController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="54" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
 <error line="2" column="55" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -471,7 +471,7 @@
 <error line="3" column="564" severity="warning" message="&apos;}&apos; en la columna 564 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="564" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\DashboardController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\DashboardController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="35" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - com.financetrack.repository.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="37" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
@@ -680,7 +680,7 @@
 <error line="7" column="626" severity="warning" message="&apos;}&apos; en la columna 626 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="7" column="626" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\EntryController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\EntryController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="37" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
 <error line="2" column="38" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -851,7 +851,7 @@
 <error line="9" column="176" severity="warning" message="&apos;}&apos; en la columna 176 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="9" column="176" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\ProfileController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\ProfileController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="36" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
 <error line="2" column="37" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -996,7 +996,7 @@
 <error line="7" column="570" severity="warning" message="&apos;}&apos; en la columna 570 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="7" column="570" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\controller\ReportController.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\controller\ReportController.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="35" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - com.financetrack.repository.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="37" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
@@ -1169,7 +1169,7 @@
 <error line="5" column="1208" severity="warning" message="&apos;}&apos; en la columna 1,208 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="5" column="1208" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\dto\AuthDtos.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\dto\AuthDtos.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="38" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.validation.constraints.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="3" severity="warning" message="La línea es mayor de 100 caracteres (encontrado 353)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
@@ -1210,7 +1210,7 @@
 <error line="3" column="351" severity="warning" message="&apos;}&apos; en la columna 351 debería tener salto de línea después." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="353" severity="warning" message="&apos;}&apos; en la columna 353 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\dto\EntryDto.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\dto\EntryDto.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="38" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.validation.constraints.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="42" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -1239,7 +1239,7 @@
 <error line="3" column="307" severity="warning" message="&apos;}&apos; en la columna 307 debería tener salto de línea después." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="309" severity="warning" message="&apos;}&apos; en la columna 309 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\Budget.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\Budget.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="29" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
@@ -1407,7 +1407,7 @@
 <error line="4" column="795" severity="warning" message="&apos;}&apos; en la columna 795 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="4" column="795" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\Category.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\Category.java">
 <error line="3" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="5" column="1" severity="warning" message="Falta el comentario Javadoc para &apos;Category&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 <error line="5" column="1" severity="warning" message="Anotación &apos;Entity&apos; esté solo en la línea." source="com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck#AnnotationLocationTypeAndPackageAndMembers"/>
@@ -1461,7 +1461,7 @@
 <error line="11" column="111" severity="warning" message="&apos;}&apos; en la columna 111 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="11" column="111" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\Expense.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\Expense.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="3" severity="warning" message="La línea es mayor de 100 caracteres (encontrado 251)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
@@ -1507,7 +1507,7 @@
 <error line="3" column="249" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 <error line="3" column="251" severity="warning" message="&apos;}&apos; en la columna 251 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\FinancialEntry.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\FinancialEntry.java">
 <error line="3" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="7" column="1" severity="warning" message="Falta el comentario Javadoc para &apos;FinancialEntry&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 <error line="9" column="5" severity="warning" message="&apos;member def modifier&apos; estás en el nivel de sangrado 4, pero esto no es el nivel correcto. Se esperaba el nivel 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1635,7 +1635,7 @@
 <error line="17" column="187" severity="warning" message="&apos;}&apos; en la columna 187 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="17" column="187" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\Income.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\Income.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="3" severity="warning" message="La línea es mayor de 100 caracteres (encontrado 246)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
@@ -1681,7 +1681,7 @@
 <error line="3" column="244" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 <error line="3" column="246" severity="warning" message="&apos;}&apos; en la columna 246 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\entity\User.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\entity\User.java">
 <error line="3" column="27" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="6" column="1" severity="warning" message="Falta el comentario Javadoc para &apos;User&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 <error line="6" column="1" severity="warning" message="Anotación &apos;Entity&apos; esté solo en la línea." source="com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck#AnnotationLocationTypeAndPackageAndMembers"/>
@@ -1830,7 +1830,7 @@
 <error line="17" column="237" severity="warning" message="&apos;}&apos; en la columna 237 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="17" column="237" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\exception\ApiExceptionHandler.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\exception\ApiExceptionHandler.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="32" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - org.springframework.http.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="36" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -1890,7 +1890,7 @@
 <error line="6" column="313" severity="warning" message="&apos;}&apos; en la columna 313 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="6" column="313" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\FinanceTrackApplication.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\FinanceTrackApplication.java">
 <error line="6" column="1" severity="warning" message="Falta el comentario Javadoc para &apos;FinanceTrackApplication&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 <error line="8" severity="warning" message="La línea es mayor de 100 caracteres (encontrado 106)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
 <error line="8" column="5" severity="warning" message="&apos;method def modifier&apos; estás en el nivel de sangrado 4, pero esto no es el nivel correcto. Se esperaba el nivel 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1898,7 +1898,7 @@
 <error line="8" column="44" severity="warning" message="&apos;{&apos; en la columna 44 debería tener salto de línea después." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck#LeftCurlyEol"/>
 <error line="8" column="106" severity="warning" message="&apos;}&apos; en la columna 106 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\repository\BudgetRepository.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\repository\BudgetRepository.java">
 <error line="1" column="36" severity="warning" message="&apos;;&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
 <error line="1" column="37" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="1" column="37" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
@@ -1932,7 +1932,7 @@
 <error line="1" column="403" severity="warning" message="&apos;}&apos; en la columna 403 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="1" column="403" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\repository\CategoryRepository.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\repository\CategoryRepository.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="42" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="2" column="104" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -1950,7 +1950,7 @@
 <error line="3" column="124" severity="warning" message="&apos;}&apos; en la columna 124 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="124" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\repository\ExpenseRepository.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\repository\ExpenseRepository.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="41" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="2" column="103" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -1993,7 +1993,7 @@
 <error line="3" column="704" severity="warning" message="&apos;}&apos; en la columna 704 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="704" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\repository\IncomeRepository.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\repository\IncomeRepository.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="40" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="2" column="102" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -2020,7 +2020,7 @@
 <error line="3" column="235" severity="warning" message="&apos;}&apos; en la columna 235 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="235" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\repository\UserRepository.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\repository\UserRepository.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="38" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
 <error line="2" column="100" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -2038,7 +2038,7 @@
 <error line="3" column="117" severity="warning" message="&apos;}&apos; en la columna 117 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="3" column="117" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\security\JwtFilter.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\security\JwtFilter.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="23" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - jakarta.servlet.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="27" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -2136,7 +2136,7 @@
 <error line="6" column="606" severity="warning" message="&apos;}&apos; en la columna 606 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="6" column="606" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\security\JwtService.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\security\JwtService.java">
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="23" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - io.jsonwebtoken.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="2" column="27" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -2209,7 +2209,7 @@
 <error line="7" column="134" severity="warning" message="&apos;}&apos; en la columna 134 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="7" column="134" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\serviceImpl\AuthService.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\serviceImpl\AuthService.java">
 <error line="1" column="9" severity="warning" message="Package name &apos;com.financetrack.serviceImpl&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="37" severity="warning" message="Usar la importación con &apos;.*&apos; debería evitarse - com.financetrack.dto.AuthDtos.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
@@ -2307,7 +2307,7 @@
 <error line="7" column="363" severity="warning" message="&apos;}&apos; en la columna 363 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="7" column="363" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\main\java\com\financetrack\serviceImpl\EntryService.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\main\java\com\financetrack\serviceImpl\EntryService.java">
 <error line="1" column="9" severity="warning" message="Package name &apos;com.financetrack.serviceImpl&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
 <error line="2" column="1" severity="warning" message="&apos;import&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 <error line="2" column="39" severity="warning" message="Sólo una declaración por línea permitido." source="com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck"/>
@@ -2537,7 +2537,7 @@
 <error line="11" column="149" severity="warning" message="&apos;}&apos; en la columna 149 debería estar solo en una línea." source="com.puppycrawl.tools.checkstyle.checks.blocks.GoogleRightCurlyCheck"/>
 <error line="11" column="149" severity="warning" message="WhitespaceAround: &apos;}&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
 </file>
-<file name="C:\Users\alejo\Documents\ChatGPT\Proyecto Tesis\financetrack\backend\src\test\java\com\financetrack\serviceImpl\AuthServiceTest.java">
+<file name="C:\Users\alejo\Desktop\FinanceTrack-GitHub\backend\src\test\java\com\financetrack\serviceImpl\AuthServiceTest.java">
 <error line="1" column="9" severity="warning" message="Package name &apos;com.financetrack.serviceImpl&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
 <error line="13" column="1" severity="warning" message="Orden lexicográfico incorrecto de &apos;java.util.Optional&apos; importación. En caso de ser antes de &apos;org.springframework.security.crypto.password.PasswordEncoder&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
 <error line="14" column="1" severity="warning" message="Declaración de importación de &apos;org.junit.jupiter.api.Assertions.*&apos; es en el orden equivocado. En caso de estar en el &apos;STATIC&apos; del grupo, esperando que las importaciones no asignadas en esta línea." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
